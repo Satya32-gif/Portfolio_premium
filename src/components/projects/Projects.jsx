@@ -28,15 +28,15 @@ const Projects = () => {
         "Implemented to fulfill the requirements provided by the AlmaBetter guidelines",
     },
     {
-      name: "Get YouTube Subscribers",
-      image: "/youtubesubs.png",
-      link: "https://youtube-backend-nu.vercel.app/",
+      name: "Crypto Dashboard ",
+      image: "/crypto.png",
+      link: "https://mycrypto-nine.vercel.app/",
       desc1:
-        "Designed a Backend project to get youtube subscribers.",
+        "Designed a frontend project to get a view of real time crypto price.",
       desc2:
-        "Developed Backend using React JS, Styled components and Mongo.",
+        "Developed frontend using React JS, Styled components and REST API.",
       desc3:
-        "Implemented to fulfill the requirements provided by the AlmaBetter guidelines with GET method on local host 3000.",
+        "Implemented to fulfill the requirements provided by the AlmaBetter guidelines with REST API and broiler plates.",
     },
     {
       name: "Light score portfolio Template ",
@@ -46,6 +46,17 @@ const Projects = () => {
         "Designed a porfolio template with good light source",
       desc2: "Developed front end using React JS",
       desc3: "Currently implemented it individually",
+    },
+    {
+      name: "Get YouTube Subscribers",
+      image: "/youtubesubs.png",
+      link: "https://youtube-backend-nu.vercel.app/",
+      desc1:
+        "Designed a Backend project to get youtube subscribers.",
+      desc2:
+        "Developed Backend using React JS, Styled components and Mongo.",
+      desc3:
+        "Implemented to fulfill the requirements provided by the AlmaBetter guidelines with GET method on local host 3000.",
     },
   ];
   return (
