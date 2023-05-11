@@ -3,6 +3,7 @@ import "./card.css";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import TwitterIcon from "@mui/icons-material/Twitter";
+import InstagramIcon from "@mui/icons-material/Instagram";
 const Card = () => {
   return (
     <div className="card">
@@ -23,6 +24,9 @@ const Card = () => {
           </a>
           <a href="https://twitter.com/iAmsatyaPN" target="_blank">
             <TwitterIcon />
+          </a>
+          <a href="https://www.instagram.com/itz._.me._.satya/" target="_blank">
+            <InstagramIcon />
           </a>
         </div>
       </div>
