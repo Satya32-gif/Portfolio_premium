@@ -48,6 +48,17 @@ const Projects = () => {
       desc3: "Currently implemented it individually",
     },
     {
+      name: "CSS created for Art gallery portfolio",
+      image: "/ssgb.png",
+      link: "https://satyaart.vercel.app/",
+      desc1:
+        "Designed a frontend gallery.",
+      desc2:
+        "Developed using basic HTML and CSS only for a basic page structure.",
+      desc3:
+        "Implemented to create a non-dynamic page of gallery containing artworks to display to the users.",
+    },
+    {
       name: "Get YouTube Subscribers",
       image: "/youtubesubs.png",
       link: "https://youtube-backend-nu.vercel.app/",
@@ -57,6 +68,17 @@ const Projects = () => {
         "Developed Backend using React JS, Styled components and Mongo.",
       desc3:
         "Implemented to fulfill the requirements provided by the AlmaBetter guidelines with GET method on local host 3000.",
+    },
+    {
+      name: "PixelPii Consultancy Services",
+      image: "/pxpjct.png",
+      link: "https://pixelpii.netlify.app/",
+      desc1:
+        "Designed a Front-End project for PixelPii Labs.",
+      desc2:
+        "Developed Frontend using React JS and Styled components.",
+      desc3:
+        "Implemented to fulfill the requirements of a startup IT and Business Consulting company called PixelPii Labs.",
     },
   ];
   return (
