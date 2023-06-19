@@ -70,6 +70,17 @@ const Projects = () => {
         "Implemented to fulfill the requirements provided by the AlmaBetter guidelines with GET method on local host 3000.",
     },
     {
+      name: "E-Commerce store Frontend (ReactJs)",
+      image: "/sscube.png",
+      link: "https://sscube.vercel.app/",
+      desc1:
+        "Designed a Front-End project for an ecommerce webpage.",
+      desc2:
+        "Developed Frontend using React JS, MateriaUI & other Styled component.",
+      desc3:
+        "Implemented as a first frontend development for a E-Commerce Store with only Basic features... More Improvements will be done to it soon with the backend..",
+    },
+    {
       name: "PixelPii Consultancy Services",
       image: "/pxpjct.png",
       link: "https://pixelpii.netlify.app/",
