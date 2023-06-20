@@ -102,6 +102,17 @@ const Projects = () => {
       desc3:
         "Implemented to fulfill the requirements of a startup IT and Business Consulting company called PixelPii Labs.",
     },
+    {
+      name: "Orange Story ( ReactJS )",
+      image: "/orange-story.png",
+      link: "https://orange-story.vercel.app/",
+      desc1:
+        "Designed Orange Story.",
+      desc2:
+        "Developed Frontend using React JS, MateriaUI & other Styled component.",
+      desc3:
+        "Implemented Orange Story Frontend with some clickable funtions included in it... More development on it's way :)",
+    },
   ];
   return (
     <Container>
