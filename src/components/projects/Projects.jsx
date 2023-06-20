@@ -48,6 +48,17 @@ const Projects = () => {
       desc3: "Currently implemented it individually",
     },
     {
+      name: "YouTube Front-End ( Colne )",
+      image: "/YTclone.png",
+      link: "https://youtubeyt.netlify.app/",
+      desc1:
+        "Designed a Front-End of YouTube.",
+      desc2:
+        "Developed Frontend using React JS, MateriaUI & other Styled component.",
+      desc3:
+        "Implemented YouTube home Frontend with some clickable funtions included in it... More development on it's way :)",
+    },
+    {
       name: "CSS created for Art gallery portfolio",
       image: "/ssgb.png",
       link: "https://satyaart.vercel.app/",
