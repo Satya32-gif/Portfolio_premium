@@ -113,6 +113,17 @@ const Projects = () => {
       desc3:
         "Implemented Orange Story Frontend with some clickable funtions included in it... More development on it's way :)",
     },
+    {
+      name: "My Gym ( ReactJS )",
+      image: "/gym.png",
+      link: "https://my-gym-opal.vercel.app/",
+      desc1:
+        "Designed a template for a Gym.",
+      desc2:
+        "Developed Frontend using React JS, MateriaUI & other Styled component.",
+      desc3:
+        "Implemented Frontend with some clickable funtions... More is in it's way :)",
+    },
   ];
   return (
     <Container>
