@@ -103,7 +103,7 @@ const Projects = () => {
         "Implemented to fulfill the requirements of a startup IT and Business Consulting company called PixelPii Labs.",
     },
     {
-      name: "Orange Story ( ReactJS )",
+      name: "Orange Story web",
       image: "/orange-story.png",
       link: "https://orange-story.vercel.app/",
       desc1:
@@ -114,7 +114,7 @@ const Projects = () => {
         "Implemented Orange Story Frontend with some clickable funtions included in it... More development on it's way :)",
     },
     {
-      name: "My Gym ( ReactJS )",
+      name: "My Gym web",
       image: "/gym.png",
       link: "https://my-gym-opal.vercel.app/",
       desc1:
@@ -123,6 +123,17 @@ const Projects = () => {
         "Developed Frontend using React JS, MateriaUI & other Styled component.",
       desc3:
         "Implemented Frontend with some clickable funtions... More is in it's way :)",
+    },
+    {
+      name: "Apple Web Clone ",
+      image: "/apple.png",
+      link: "https://myapple-react.vercel.app/",
+      desc1:
+        "Designed Apple official website.",
+      desc2:
+        "Developed Frontend using React JS, MateriaUI & other Styled component.",
+      desc3:
+        "Hope You Liked :)",
     },
   ];
   return (
