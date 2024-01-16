@@ -39,6 +39,17 @@ const Projects = () => {
         "Implemented to fulfill the requirements provided by the AlmaBetter guidelines with REST API and broiler plates.",
     },
     {
+      name: " The Vervex ",
+      image: "/vervex.png",
+      link: "https://thevervex.store/",
+      desc1:
+        "Designed a eCommerce website for Fashion apparels and accessories for a business.",
+      desc2:
+        "Developed front end and backend along with Hosting on Shopify and custom CSS.",
+      desc3:
+        "Implemented to fulfill the requirements provided by the business to sell goods and attract customers with dynamic UI.",
+    },
+    {
       name: "Light score portfolio Template ",
       image: "/portfol.png",
       link: "https://satyaprakash-red.vercel.app/",
@@ -79,6 +90,17 @@ const Projects = () => {
         "Developed Backend using React JS, Styled components and Mongo.",
       desc3:
         "Implemented to fulfill the requirements provided by the AlmaBetter guidelines with GET method on local host 3000.",
+    },
+    {
+      name: " SureBuy Store",
+      image: "/surebuy.png",
+      link: "https://surebuystore.in/",
+      desc1:
+        "Designed a eCommerce website with Wordpress.",
+      desc2:
+        "Developed frontend with custom CSS and HTML blocks.",
+      desc3:
+        "Implemented to fulfill the requirements provided by the client to maintain the catalog designs.",
     },
     {
       name: "E-Commerce store Frontend (ReactJs)",

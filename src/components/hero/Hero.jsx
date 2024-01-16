@@ -57,7 +57,7 @@ const Hero = () => {
   return (
     <Container>
       <ImageContainer>
-        <Img src="/dark2.png" alt="" />
+        <Img src="/dark2.jpeg" alt="" />
       </ImageContainer>
       <CardContainer>
         <Card />

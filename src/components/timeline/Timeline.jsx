@@ -80,7 +80,7 @@ const Timeline = () => {
           <h4 className="vertical-timeline-element-subtitle">
             Salipur Autonomous College {" "}
           </h4>
-          <p>Strategy, Social Media</p>
+          <p>Secured 8.3 CGPA</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           contentStyle={{
