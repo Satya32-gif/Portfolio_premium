@@ -59,7 +59,7 @@ const Projects = () => {
       desc3: "Currently implemented it individually",
     },
     {
-      name: "YouTube Front-End ( Colne )",
+      name: "YouTube Front-End ( Clone )",
       image: "/YTclone.png",
       link: "https://youtubeyt.netlify.app/",
       desc1:
