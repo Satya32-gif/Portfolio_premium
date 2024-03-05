@@ -157,6 +157,17 @@ const Projects = () => {
       desc3:
         "Hope You Liked :)",
     },
+    {
+      name: "Practomind Solutions LLP",
+      image: "/practomid.png",
+      link: "https://practomind.com",
+      desc1:
+        "Designed a website for a business consulting and marketing agency.",
+      desc2:
+        "Developed front end using React JS, Swift JS with Wordpress CMS.",
+      desc3:
+        "Implemented to fulfill the requirements provided by the client.",
+    }
   ];
   return (
     <Container>
