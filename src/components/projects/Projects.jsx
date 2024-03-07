@@ -59,7 +59,7 @@ const Projects = () => {
       desc3: "Currently implemented it individually",
     },
     {
-      name: "YouTube Front-End ( Clone )",
+      name: "YouTube Front-End ( Colne )",
       image: "/YTclone.png",
       link: "https://youtubeyt.netlify.app/",
       desc1:
@@ -159,7 +159,7 @@ const Projects = () => {
     },
     {
       name: "Practomind Solutions LLP",
-      image: "/practomid.png",
+      image: "/practomind.jpeg",
       link: "https://practomind.com",
       desc1:
         "Designed a website for a business consulting and marketing agency.",
