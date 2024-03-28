@@ -25,7 +25,7 @@ const Card = () => {
           <a href="https://twitter.com/iAmsatyaPN" target="_blank">
             <TwitterIcon />
           </a>
-          <a href="https://www.instagram.com/itz._.me._.satya/" target="_blank">
+          <a href="https://www.instagram.com/satya_ez_here/" target="_blank">
             <InstagramIcon />
           </a>
         </div>
